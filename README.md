@@ -1,7 +1,7 @@
 # Vending-Machine-using-Verilog
 <b>Verilog code for a Vending Machine</b>
 
-</b>Introduction</b><br>
+<b>Introduction:</b><br>
 In this project, we are going to simulate a simple vending machine using Verilog HDL.
 
 <b>Description:</b><br>
